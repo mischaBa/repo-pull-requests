@@ -1,0 +1,3 @@
+here is some changes for new feature 1
+
+added new line in for feature 1
